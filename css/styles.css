@@ -2457,13 +2457,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #007bff;
+  border-color: #007bff;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #007bff;
+  border-color: #007bff;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10073,11 +10073,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #cce5fa;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: hsl(168, 76%, 42%);
+    background: #cce5fa;
   }
 
   #mainNav.navbar-shrink {
@@ -10130,7 +10130,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: #cce5fa;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
